@@ -20,3 +20,6 @@ Hi there 👋 I'm Rachid!<br>💻 Student engineer in cyber security at Ensa Mar
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+
+### 🛠️ TryHackMe Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/rachiid.png" alt="TryHackMe">
